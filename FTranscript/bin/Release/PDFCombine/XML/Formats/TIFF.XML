@@ -1,0 +1,5 @@
+  <page class="TIFFCompression" caption="Document\Compression" />
+  <page class="TIFFPhotometInterpret" caption="Document\Photometric" />
+  <page class="TIFFJPEGColorSpace" caption="Document\Color space" />
+  <page class="TIFFJPEGQuality" caption="Document\JPEG Quality" />
+

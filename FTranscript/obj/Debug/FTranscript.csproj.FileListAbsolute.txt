@@ -1,0 +1,87 @@
+c:\users\thic pc\documents\visual studio 2015\Projects\FTranscript\FTranscript\bin\Debug\FTranscript.exe.config
+c:\users\thic pc\documents\visual studio 2015\Projects\FTranscript\FTranscript\bin\Debug\FTranscript.exe
+c:\users\thic pc\documents\visual studio 2015\Projects\FTranscript\FTranscript\bin\Debug\FTranscript.pdb
+c:\users\thic pc\documents\visual studio 2015\Projects\FTranscript\FTranscript\obj\Debug\MainWindow.g.cs
+c:\users\thic pc\documents\visual studio 2015\Projects\FTranscript\FTranscript\obj\Debug\App.g.cs
+c:\users\thic pc\documents\visual studio 2015\Projects\FTranscript\FTranscript\obj\Debug\FTranscript_MarkupCompile.cache
+c:\users\thic pc\documents\visual studio 2015\Projects\FTranscript\FTranscript\obj\Debug\FTranscript_MarkupCompile.lref
+c:\users\thic pc\documents\visual studio 2015\Projects\FTranscript\FTranscript\obj\Debug\MainWindow.baml
+c:\users\thic pc\documents\visual studio 2015\Projects\FTranscript\FTranscript\obj\Debug\FTranscript.g.resources
+c:\users\thic pc\documents\visual studio 2015\Projects\FTranscript\FTranscript\obj\Debug\FTranscript.Properties.Resources.resources
+c:\users\thic pc\documents\visual studio 2015\Projects\FTranscript\FTranscript\obj\Debug\FTranscript.csproj.GenerateResource.Cache
+c:\users\thic pc\documents\visual studio 2015\Projects\FTranscript\FTranscript\obj\Debug\FTranscript.exe
+c:\users\thic pc\documents\visual studio 2015\Projects\FTranscript\FTranscript\obj\Debug\FTranscript.pdb
+C:\Users\Thic PC\Documents\Visual Studio 2015\Projects\FTranscript\FTranscript\bin\Debug\bcmail-jdk15-1.44.dll
+C:\Users\Thic PC\Documents\Visual Studio 2015\Projects\FTranscript\FTranscript\bin\Debug\bcprov-jdk15-1.44.dll
+C:\Users\Thic PC\Documents\Visual Studio 2015\Projects\FTranscript\FTranscript\bin\Debug\commons-logging.dll
+C:\Users\Thic PC\Documents\Visual Studio 2015\Projects\FTranscript\FTranscript\bin\Debug\fontbox-1.8.9.dll
+C:\Users\Thic PC\Documents\Visual Studio 2015\Projects\FTranscript\FTranscript\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Thic PC\Documents\Visual Studio 2015\Projects\FTranscript\FTranscript\bin\Debug\icu4j-3.8.dll
+C:\Users\Thic PC\Documents\Visual Studio 2015\Projects\FTranscript\FTranscript\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\Thic PC\Documents\Visual Studio 2015\Projects\FTranscript\FTranscript\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\Thic PC\Documents\Visual Studio 2015\Projects\FTranscript\FTranscript\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\Thic PC\Documents\Visual Studio 2015\Projects\FTranscript\FTranscript\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\Thic PC\Documents\Visual Studio 2015\Projects\FTranscript\FTranscript\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Thic PC\Documents\Visual Studio 2015\Projects\FTranscript\FTranscript\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\Thic PC\Documents\Visual Studio 2015\Projects\FTranscript\FTranscript\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\Thic PC\Documents\Visual Studio 2015\Projects\FTranscript\FTranscript\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\Thic PC\Documents\Visual Studio 2015\Projects\FTranscript\FTranscript\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\Thic PC\Documents\Visual Studio 2015\Projects\FTranscript\FTranscript\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\Thic PC\Documents\Visual Studio 2015\Projects\FTranscript\FTranscript\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\Thic PC\Documents\Visual Studio 2015\Projects\FTranscript\FTranscript\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\Thic PC\Documents\Visual Studio 2015\Projects\FTranscript\FTranscript\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Thic PC\Documents\Visual Studio 2015\Projects\FTranscript\FTranscript\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Thic PC\Documents\Visual Studio 2015\Projects\FTranscript\FTranscript\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Thic PC\Documents\Visual Studio 2015\Projects\FTranscript\FTranscript\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\Thic PC\Documents\Visual Studio 2015\Projects\FTranscript\FTranscript\bin\Debug\IKVM.Runtime.dll
+C:\Users\Thic PC\Documents\Visual Studio 2015\Projects\FTranscript\FTranscript\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\Thic PC\Documents\Visual Studio 2015\Projects\FTranscript\FTranscript\bin\Debug\junit.dll
+C:\Users\Thic PC\Documents\Visual Studio 2015\Projects\FTranscript\FTranscript\obj\Debug\FTranscript.csprojResolveAssemblyReference.cache
+C:\Users\Cypher\Dropbox\software projects\FTranscript\FTranscript\bin\Debug\FTranscript.exe.config
+C:\Users\Cypher\Dropbox\software projects\FTranscript\FTranscript\obj\Debug\FTranscript.exe
+C:\Users\Cypher\Dropbox\software projects\FTranscript\FTranscript\obj\Debug\FTranscript.pdb
+C:\Users\Cypher\Dropbox\software projects\FTranscript\FTranscript\obj\Debug\MainWindow.g.cs
+C:\Users\Cypher\Dropbox\software projects\FTranscript\FTranscript\obj\Debug\App.g.cs
+C:\Users\Cypher\Dropbox\software projects\FTranscript\FTranscript\obj\Debug\FTranscript_MarkupCompile.cache
+C:\Users\Cypher\Dropbox\software projects\FTranscript\FTranscript\obj\Debug\FTranscript_MarkupCompile.lref
+C:\Users\Cypher\Dropbox\software projects\FTranscript\FTranscript\bin\Debug\FTranscript.exe
+C:\Users\Cypher\Dropbox\software projects\FTranscript\FTranscript\bin\Debug\FTranscript.pdb
+C:\Users\Cypher\Dropbox\software projects\FTranscript\FTranscript\obj\Debug\MainWindow.baml
+C:\Users\Cypher\Dropbox\software projects\FTranscript\FTranscript\obj\Debug\FTranscript.g.resources
+C:\Users\Cypher\Dropbox\software projects\FTranscript\FTranscript\obj\Debug\FTranscript.Properties.Resources.resources
+C:\Users\Cypher\Dropbox\software projects\FTranscript\FTranscript\obj\Debug\FTranscript.csproj.GenerateResource.Cache
+C:\Users\Cypher\Dropbox\software projects\FTranscript\FTranscript\bin\Debug\itextsharp.dll
+C:\Users\Cypher\Dropbox\software projects\FTranscript\FTranscript\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Cypher\Dropbox\software projects\FTranscript\FTranscript\bin\Debug\PdfSharp.dll
+C:\Users\Cypher\Dropbox\software projects\FTranscript\FTranscript\bin\Debug\itextsharp.xml
+C:\Users\Cypher\Dropbox\software projects\FTranscript\FTranscript\bin\Debug\PdfSharp.xml
+C:\Users\Cypher\Dropbox\software projects\FTranscript\FTranscript\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Cypher\Dropbox\software projects\FTranscript\FTranscript\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Cypher\Dropbox\software projects\FTranscript\FTranscript\bin\Debug\de\PdfSharp.Charting.resources.dll
+E:\ftranscript\FTranscript\obj\Debug\FTranscript.csprojResolveAssemblyReference.cache
+E:\ftranscript\FTranscript\obj\Debug\FTranscript.exe
+E:\ftranscript\FTranscript\obj\Debug\FTranscript.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\ftranscript\FTranscript\obj\Debug\FTranscript.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\ftranscript\FTranscript\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\ftranscript\FTranscript\obj\Debug\App.g.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\ftranscript\FTranscript\obj\Debug\FTranscript_MarkupCompile.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\ftranscript\FTranscript\obj\Debug\FTranscript_MarkupCompile.lref
+C:\Users\User\Documents\Visual Studio 2017\Projects\ftranscript\FTranscript\obj\Debug\FTranscript.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\ftranscript\FTranscript\obj\Debug\FTranscript.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\ftranscript\FTranscript\bin\Debug\FTranscript.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\ftranscript\FTranscript\bin\Debug\FTranscript.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\ftranscript\FTranscript\bin\Debug\FTranscript.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\ftranscript\FTranscript\bin\Debug\itextsharp.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\ftranscript\FTranscript\bin\Debug\PdfSharp.Charting.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\ftranscript\FTranscript\bin\Debug\PdfSharp.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\ftranscript\FTranscript\bin\Debug\itextsharp.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\ftranscript\FTranscript\bin\Debug\PdfSharp.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\ftranscript\FTranscript\bin\Debug\PdfSharp.Charting.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\ftranscript\FTranscript\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\ftranscript\FTranscript\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\ftranscript\FTranscript\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\Visual Studio 2017\Projects\ftranscript\FTranscript\obj\Debug\FTranscript.g.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\ftranscript\FTranscript\obj\Debug\FTranscript.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\ftranscript\FTranscript\obj\Debug\FTranscript.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\ftranscript\FTranscript\obj\Debug\FTranscript.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\ftranscript\FTranscript\obj\Debug\FTranscript.csproj.CopyComplete

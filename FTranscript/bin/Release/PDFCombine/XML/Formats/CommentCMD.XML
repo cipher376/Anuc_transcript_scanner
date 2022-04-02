@@ -1,0 +1,31 @@
+  <key name="-Head:off" property="Title.Header.VisibleOff" desc="Turn off header text" />
+  <key name="HeadText" property="Title.Header.Text" desc="Header text. Where [page] - Page Number and [date] - current date" />
+  <key name="HeadAlign" property="Title.Header.Position" desc="Header align">
+    <subkey name="(l)eft" value="cpLeft" desc="align left" />
+    <subkey name="(r)ight" value="cpRight" desc="align right" />
+    <subkey name="(c)enter" value="cpCenter" desc="align center" />
+  </key>
+  <key name="HeadFont" property="Title.Header.Font.Name" desc="Header font name" />
+  <key name="HeadSize" property="Title.Header.Font.Size" desc="Header font size" />
+
+  <key name="-Foot:off" property="Title.Footer.VisibleOff" desc="Turn off footer text" />
+  <key name="FootText" property="Title.Footer.Text" desc="Footer text. Where [page] - Page Number and [date] - current date" />
+  <key name="FootAlign" property="Title.Footer.Position" desc="Footer align">
+    <subkey name="(l)eft" value="cpLeft" desc="align left" />
+    <subkey name="(r)ight" value="cpRight" desc="align right" />
+    <subkey name="(c)enter" value="cpCenter" desc="align center" />
+  </key>
+  <key name="FootFont" property="Title.Footer.Font.Name" desc="Footer font name" />
+  <key name="FootSize" property="Title.Footer.Font.Size" desc="Footer font size" />
+  <key name="HeadImage" property="Title.Header.Image.FileName" desc="Draw picture on the header" />
+  <key name="HeadImageAlign" property="Title.Header.Image.Position" desc="Header image align">
+    <subkey name="(l)eft" value="cpLeft" desc="align left" />
+    <subkey name="(r)ight" value="cpRight" desc="align right" />
+    <subkey name="(c)enter" value="cpCenter" desc="align center" />
+  </key>
+  <key name="FooterImage" property="Title.Footer.Image.FileName" desc="Draw picture on the footer" />
+  <key name="FooterImageAlign" property="Title.Footer.Image.Position" desc="Footer image align">
+    <subkey name="(l)eft" value="cpLeft" desc="align left" />
+    <subkey name="(r)ight" value="cpRight" desc="align right" />
+    <subkey name="(c)enter" value="cpCenter" desc="align center" />
+  </key>

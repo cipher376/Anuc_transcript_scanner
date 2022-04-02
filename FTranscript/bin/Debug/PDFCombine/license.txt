@@ -1,0 +1,374 @@
+PDF Combine END USER LICENSE AGREEMENT
+
+NOTICE TO USER:
+
+THIS  IS  A  CONTRACT.  THIS  END  USER  LICENSE  AGREEMENT IS A LEGALLY BINDING
+CONTRACT  THAT  SHOULD  BE  READ IN ITS ENTIRETY. THIS IS AN AGREEMENT GOVERNING
+YOUR  USE  OF  "PDF  Combine" SOFTWARE, FURTHER DEFINED HEREIN AS "PRODUCT," AND
+THE  LICENSOR  OF  THE  PRODUCT  IS  WILLING  TO  PROVIDE YOU WITH ACCESS TO THE
+PRODUCT  ONLY  ON  THE CONDITION THAT YOU ACCEPT ALL OF THE TERMS AND CONDITIONS
+CONTAINED  IN  THIS AGREEMENT. BELOW, YOU ARE ASKED TO ACCEPT THIS AGREEMENT AND
+CONTINUE  TO INSTALL OR, IF YOU DO NOT WISH TO ACCEPT THIS AGREEMENT, TO DECLINE
+THIS  AGREEMENT,  IN  WHICH  CASE YOU WILL NOT BE ABLE TO INSTALL OR OPERATE THE
+PRODUCT.  BY  INSTALLING THIS PRODUCT YOU ACCEPT ALL THE TERMS AND CONDITIONS OF
+THIS AGREEMENT.
+
+This  Electronic  End  User  License  Agreement  (the  "Agreement")  is  a legal
+agreement  between  you  (either  an individual or an entity), the licensee, and
+Softplicity  and  its  affiliates  and suppliers (collectively, the "Licensor"),
+regarding  the  Licensor's  current  version of the software titled "PDF Combin"
+that  you  about  to  download,  downloaded, or otherwise obtained through other
+resources  or media such as CD-ROMs, or through a network in object code form or
+other  related  services, including without limitation a) all of the contents of
+the  files,  disk(s),  CD-ROM(s)  or  other  media  with which this Agreement is
+provided  (the  "Software"),  and b) all successor upgrades, revisions, patches,
+enhancements,  fixes modifications, copies, additions or maintenance releases of
+the  Software,  if  any,  licensed  to  you  by  the Licensor (collectively, the
+"Updates")  provided  that  the  Updates  shall  not  include  a  new subsequent
+releases  of  the  Software bearing a new first numeral such as 3.0 or 4.0 ("New
+Releases")  but include any minor revisions of the Software version indicated by
+a  change  in  the  decimal  numeral,  such  as  3.3 or 3.4, and c) related user
+documentation  and  explanatory materials or files provided in written, "online"
+or  electronic  form  (the  "Documentation"  and  together with the Software and
+Updates,  the  "Product").  You  are subject to the terms and conditions of this
+End  User  License  Agreement  whether you access or obtain the Product directly
+from  the  Licensor,  or  through  any  other source. For purposes hereof, "you"
+means  the  individual  person installing or using the Product on his or her own
+behalf;  or,  if  the  Product  is being downloaded or installed on behalf of an
+organization,  such  as  an employer, "you" means the organization for which the
+Product  is  downloaded  or installed and you represent that you have authorized
+the  person  accepting  this  agreement  to  do  so on your behalf. For purposes
+hereof  the  term  "organization", without limitation, includes any partnership,
+limited  liability  company,  corporation,  association,  joint  stock  company,
+trust,  joint  venture,  labor  organization,  unincorporated  organization,  or
+governmental authority.
+
+For  the  purposes  of  this  Agreement, "Licensor Site" shall mean the Internet
+website  maintained  by  or  on  behalf  of  Licensor from which the Software is
+available  for  download  pursuant to a license from Licensor. The Licensor Site
+is currently located at: www.coolutils.com
+
+By  accessing,  storing, loading, installing, executing, displaying, copying the
+Product  into  the  memory  of  a  Client Device, as defined below, or otherwise
+benefiting  from  using  the functionality of the Product in accordance with the
+Documentation  ("Operating"),  you agree to be bound by the terms and conditions
+of  this  Agreement.  If  you  do  not agree to the terms and conditions of this
+Agreement,  the  Licensor  is  unwilling  to license the Product to you. In such
+event, you may not Operate or use the Product in any way.
+
+BEFORE  YOU  CLICK  ON  THE  "YES"  BUTTON,  PLEASE CAREFULLY READ THE TERMS AND
+CONDITIONS  OF  THIS AGREEMENT, AS SUCH ACTION IS A SYMBOL OF YOUR SIGNATURE AND
+BY  CLICKING ON "YES" BUTTON, YOU ARE CONSENTING TO BE BOUND BY AND ARE BECOMING
+A  PARTY TO THIS AGREEMENT AND AGREE THAT THIS AGREEMENT IS ENFORCEABLE LIKE ANY
+WRITTEN  NEGOTIATED  AGREEMENT  SIGNED BY YOU. IF YOU DO NOT AGREE TO ALL OF THE
+TERMS  OF  THIS  AGREEMENT,  CLICK  THE  "NO" BUTTON AND THE PRODUCT WILL NOT BE
+INSTALLED  ON  YOUR  COMPUTER.  This  Product  will not install on your computer
+unless or until you accept the terms of this Agreement.
+
+1. PROPRIETARY RIGHTS AND NON-DISCLOSURE.
+
+1.1.  Ownership  Rights. You agree that the Product and the authorship, systems,
+ideas,  methods  of  operation, documentation and other information contained in
+the  Product,  are proprietary intellectual properties and/or the valuable trade
+secrets  of  the Licensor or its suppliers and/or licensors and are protected by
+civil  and  criminal  law,  and by the law of copyright, trade secret, trademark
+and  patent  of  the  United States, other countries and international treaties.
+You  may  use  trademarks only insofar as to identify printed output produced by
+the   Product   in   accordance  with  accepted  trademark  practice,  including
+identification  of  trademark  owner's  name. Such use of any trademark does not
+give  you  any  rights  of  ownership in that trademark. The Licensor and/or its
+suppliers  own  and retain all right, title, and interest in and to the Product,
+including  without  limitations  any error corrections, enhancements, Updates or
+other  modifications  to the Software, whether made by the Licensor or any third
+party,  and  all copyrights, patents, trade secret rights, trademarks, and other
+intellectual  property  rights  therein. Your possession, installation or use of
+the  Product  does not transfer to you any title to the intellectual property in
+the  Product,  and  you  will  not  acquire  any rights to the Product except as
+expressly  set forth in this Agreement. All copies of the Product made hereunder
+must  contain  the  same  proprietary notices that appear on and in the Product.
+Except  as  stated  herein,  this  Agreement does not grant you any intellectual
+property  rights in the Product and you acknowledge that the License, as further
+defined  herein,  granted under this Agreement only provides you with a right of
+limited  use under the terms and conditions of this Agreement. Licensor reserves
+all rights not expressly granted to you in this Agreement.
+
+1.2.  Source  Code.  You  acknowledge  that  the  source code for the Product is
+proprietary  to  the Licensor and constitutes trade secrets of the Licensor. You
+agree  not to modify, adapt, translate, reverse engineer, decompile, disassemble
+or otherwise attempt to discover the source code of the Product in any way.
+
+1.3.  No  Modification. You agree not to modify or alter the Product in any way.
+You  may  not remove or alter any copyright notices or other proprietary notices
+on any copies of the Product.
+
+1.4.  Confidential  Information.  You  agree that, unless otherwise specifically
+provided  herein  the  Product,  including  the specific design and structure of
+individual   programs  and  the  Product,  constitute  confidential  proprietary
+information  of the Licensor or its suppliers and/or licensors. You agree not to
+transfer,  copy, disclose, provide or otherwise make available such confidential
+information  in  any form to any third party. For purposes hereof, "License Key"
+shall  mean  a file or a unique sequence of digit and/or symbols provided to you
+by  the Licensor confirming the purchase of the license from the Licensor, which
+may  carry  the  information about the License, i.e. its type, the user name and
+the  number  of  licenses  purchased, and enabling the full functionality of the
+Product  in  accordance with the License granted under this Agreement. You agree
+to   implement   reasonable  security  measures  to  protect  such  confidential
+information.
+
+2. GRANT OF LICENSE.
+
+2.1.  License.  The  Licensor  grants you the non-exclusive and non-transferable
+license  to  store,  load, install, execute, and display (to "Use") the Software
+on  computers, workstations, personal digital assistants, 'smart phones,' mobile
+phones,  hand-held  devices,  or other electronic devices for which the software
+was  designed  (each  a "Client Device") pursuant to the terms and conditions of
+this  Agreement  ("License")  .  One purchased License for the Software entitles
+you  to  Operate  one  copy  of  the  licensed  Product on one (1) Client Device
+provided  that if multiple or volume licenses for the Product are purchased, the
+number  of  the  Client Devices and/or the number of permitted users shall be as
+provided and permitted by invoicing terms and/or applicable License Key.
+
+2.2.  Updates;  Support and Maintenance Services. Licensor will provide you with
+email  Support  and Maintenance Services free of charge. Maintenance and Support
+terms and conditions are subject to change without notice.
+
+2.3.  Multiple  Environment  Product;  Multiple  Language  Product;  Dual  Media
+Product;  Multiple Copies; Bundles. If you use different versions of the Product
+or  different  language  editions  of the Product, if you receive the Product on
+multiple  media,  if you otherwise receive multiple copies of the Product, or if
+you  received  the  Product  bundled  with  other  software, the total permitted
+number  of  your  Client  Devices  on  which  all  versions  of  the Product are
+installed  shall  correspond  to  the  number  and  types  of  licenses you have
+obtained  from  the  Licensor.  You  may not rent, bundle with other products or
+materials,  lease,  sublicense,  lend  or transfer any versions or copies of the
+Product  regardless  of  whether  you  use the Product or not without Licensor's
+written consent.
+
+2.4.  Term and Termination. The term of this Agreement ("Term") shall begin when
+you  purchase  or otherwise legally receive the Product until the termination of
+the  Agreement  as  provided  herein.  This  Agreement  may  be  terminated by a
+superseding  agreement,  offered  by  the  Licensor and accepted by you, for the
+Product,  Update  or  any  replacement  or modified version of or upgrade or New
+Release  of  the  Product  and conditioning your continued use of the Product or
+such   replacement,  modified  or  upgraded  version  or  New  Release  on  your
+acceptance  of  such  superseding  Agreement.  Without  prejudice  to  any other
+rights,  this  Agreement will terminate automatically if you fail to comply with
+any  of  the  limitations  or  other  requirements  described  herein.  Upon any
+termination  or  expiration of this Agreement, you must immediately cease Use of
+the Product and permanently destroy and/or delete all copies of the Product.
+
+2.5.  No Rights Upon Termination. Upon termination of this Agreement you will no
+longer be authorized to Operate or use the Product in any way.
+
+2.6.  Material  Terms  and  Conditions.  You specifically agree that each of the
+terms  and  conditions of this Section 2 are material and that failure of you to
+comply  with  these  terms  and conditions shall constitute sufficient cause for
+Licensor  to  immediately terminate this Agreement and the License granted under
+this  Agreement.  The  presence  of  this  Section  2.6 shall not be relevant in
+determining  the  materiality of any other provision or breach of this Agreement
+by either party hereto.
+2.7.  Refunds.  Customers are encouraged to fully evaluate the software prior to
+purchasing  a  software  license. During the evaluation period technical support
+is  available.  It  is not possible to keep track installation, un-installation,
+removing  or  deleting  downloadable  software  on customers PC and therefore we
+don't  issue  refunds  for  downloadable  products  to avoid continued use after
+reimbursement.
+
+3. RESTRICTIONS.
+
+3.1.  No  Transfers.  Under  no circumstances you shall sell, loan, rent, lease,
+loan,  license,  sublicense, publish, display, distribute, or otherwise transfer
+to  a  third  party  the  Product, any copy or use thereof, in whole or in part,
+without  Licensor's  prior  written  consent, provided that if such non-waivable
+right  is  specifically granted to you under applicable law in your jurisdiction
+you  may transfer your rights under this Agreement permanently to another person
+or  entity, provided that (a) you also transfer this Agreement, the Product, all
+accompanying  printed  materials,  and all other software or hardware bundled or
+pre-installed  with  the  Product,  including  all  copies,  Updates  and  prior
+versions,  to such person or entity; (b) retain no copies, including backups and
+copies  stored on a Client Device; and (c) the receiving party accepts the terms
+and  conditions  of this Agreement and any other terms and conditions upon which
+you  legally  purchased a license to the Product. Notwithstanding the foregoing,
+you  may  not transfer education, pre-release, or "not for resale" copies of the
+Product.  In  no  case  you  may permit third parties to benefit from the use or
+functionality  of  the  Product  via  a  timesharing,  service  bureau  or other
+arrangement,  except  to  the  extent  such  use is specified in the application
+price list, purchase order or product packaging for the Product.
+
+3.2.  Prohibitions.  Except  as  otherwise  specifically  provided  for  in this
+Agreement,  you  may  not  use, copy, emulate, clone, rent, lease, sell, modify,
+decompile,  disassemble,  otherwise  reverse  engineer,  or otherwise reduce any
+party  of  the  Product to human readable form or transfer the licensed Product,
+or  any  subset  of  the  licensed Product, nor permit any third party to do so,
+except  to  the  extent  the  foregoing  restriction  is expressly prohibited by
+applicable   law.   Notwithstanding  the  foregoing  sentence,  decompiling  the
+Software  is  permitted to the extent the laws of your jurisdiction give you the
+non-waivable  right  to  do  so  to  obtain  information necessary to render the
+Software  interoperable  with  other  software; provided, however, that you must
+first  request  such  information from the Licensor and the Licensor may, in its
+discretion,  either  provide such information to you (subject to confidentiality
+terms)  or impose reasonable conditions, including a reasonable fee, on such use
+of  the  Software  to  ensure  that  the  Licensor's  and  its  suppliers and/or
+licensors  proprietary rights in the Software are protected. You may not modify,
+or  create derivative works based upon the Product in whole or in part. Any such
+unauthorized  use  shall  result  in immediate and automatic termination of this
+Agreement  and  the  License granted hereunder and may result in criminal and/or
+civil  prosecution.  Neither  Product's  binary  code  nor source may be used or
+reverse  engineered  to  re-create  the program algorithm, which is proprietary,
+without  written  permission  of  the Licensor. All rights not expressly granted
+here   are   reserved  by  Licensor  and/or  its  suppliers  and  licensors,  as
+applicable.
+
+3.3.  Proprietary  Notices. You may not remove any proprietary notices or labels
+on the Product.
+
+3.4.  License  Key.  You  may  not  give,  make  available,  give  away, sell or
+otherwise  transfer your registration License Key or any copy thereof to a third
+party.  Product's License Key may not be distributed, except as provided herein,
+outside  of the area of legal control of the person or persons who purchased the
+original  License,  without  written  permission  of the Licensor. Doing so will
+result  in  an  infringement  of  copyright.  The  Licensor retains the right of
+claims  for compensation in respect of damage which occurred by your giving away
+the  License  Key  or registration code contained therein. This claim shall also
+extend  to  all  costs  which  the  Licensor or its licensors incur in defending
+themselves.
+
+3.5.  Compliance  with Law. You agree that in Operating the Product and in using
+any  report  or  information  derived as a result of Operating this Product, you
+will  comply  with  all  applicable international, national, state, regional and
+local  laws  and regulations, including, without limitation, privacy, copyright,
+export control and obscenity law.
+
+3.6.  No  Transfer  of Rights. Except as otherwise specifically provided herein,
+you  may  not  transfer  or  assign  any of the rights granted to you under this
+Agreement or any of your obligations pursuant hereto.
+
+4. DISCLAIMERS.
+
+4.1.  Customer  Remedies.  The  Licensor and its suppliers' entire liability and
+your  exclusive  remedy for any breach of the foregoing warranty shall be at the
+Licensor's  option:  (I)  return  of the purchase price paid for the license, if
+any,  (II) replacement of the defective media in which the Product is contained,
+or  (III)  correction  of the defects, "bugs" or errors within reasonable period
+of  time.  You  must  return the defective media to the Licensor at your expense
+with  a  copy  of  your receipt. This limited warranty is void if the defect has
+resulted  from accident, abuse, or misapplication. Any replacement media will be
+warranted for the remainder of the original warranty period.
+
+4.2.  NO  WARRANTIES. EXCEPT FOR ANY WARRANTY, CONDITION, REPRESENTATION OR TERM
+TO  THE EXTENT TO WHICH THE SAME CANNOT OR MAY NOT BE EXCLUDED OR LIMITED BY LAW
+APPLICABLE  TO YOU IN YOUR JURISDICTION, THE PRODUCT IS PROVIDED "AS-IS" WITHOUT
+ANY  WARRANTY  WHATSOEVER AND THE LICENSOR MAKES NO PROMISES, REPRESENTATIONS OR
+WARRANTIES,  WHETHER  EXPRESSED  OR  IMPLIED,  WHETHER  BY  STATUTE, COMMON LAW,
+CUSTOM,  USAGE  OR  OTHERWISE,  REGARDING  OR RELATING TO THE PRODUCT OR CONTENT
+THEREIN  OR  TO ANY OTHER MATERIAL FURNISHED OR PROVIDED TO YOU PURSUANT TO THIS
+AGREEMENT  OR OTHERWISE. YOU ASSUME ALL RISKS AND RESPONSIBILITIES FOR SELECTION
+OF  THE  PRODUCT  TO ACHIEVE YOUR INTENDED RESULTS, AND FOR THE INSTALLATION OF,
+USE  OF,  AND  RESULTS OBTAINED FROM THE PRODUCT. THE LICENSOR MAKES NO WARRANTY
+THAT  THE  PRODUCT  WILL  BE ERROR FREE OR FREE FROM INTERRUPTION OR FAILURE, OR
+THAT  IT  IS COMPATIBLE WITH ANY PARTICULAR HARDWARE OR SOFTWARE. TO THE MAXIMUM
+EXTENT  PERMITTED  BY  APPLICABLE LAW, LICENSOR DISCLAIMS ALL WARRANTIES, EITHER
+EXPRESS  OR  IMPLIED,  INCLUDING  BUT  NOT  LIMITED  TO  IMPLIED  WARRANTIES  OF
+MERCHANTABILITY,   NON-INFRINGEMENT   OF   THIRD   PARTY   RIGHTS,  INTEGRATION,
+SATISFACTORY  QUALITY  OR FITNESS FOR ANY PARTICULAR PURPOSE WITH RESPECT TO THE
+PRODUCT  AND  THE  ACCOMPANYING  WRITTEN  MATERIALS  OR  THE  USE  THEREOF. SOME
+JURISDICTIONS  DO  NOT  ALLOW  LIMITATIONS  ON  IMPLIED WARRANTIES, SO THE ABOVE
+LIMITATION  MAY  NOT  APPLY  TO YOU. YOU HEREBY ACKNOWLEDGE THAT THE PRODUCT MAY
+NOT  BE  OR  BECOME  AVAILABLE  DUE  TO  ANY NUMBER OF FACTORS INCLUDING WITHOUT
+LIMITATION  PERIODIC  SYSTEM MAINTENANCE, SCHEDULED OR UNSCHEDULED, ACTS OF GOD,
+TECHNICAL  FAILURE  OF THE SOFTWARE, TELECOMMUNICATIONS INFRASTRUCTURE, OR DELAY
+OR  DISRUPTION  ATTRIBUTABLE TO VIRUSES, DENIAL OF SERVICE ATTACKS, INCREASED OR
+FLUCTUATING  DEMAND,  AND ACTIONS AND OMISSIONS OF THIRD PARTIES. THEREFORE, THE
+LICENSOR  EXPRESSLY  DISCLAIMS  ANY EXPRESS OR IMPLIED WARRANTY REGARDING SYSTEM
+AND/OR  SOFTWARE  AVAILABILITY,  ACCESSIBILITY,  OR  PERFORMANCE.  THE  LICENSOR
+DISCLAIMS  ANY  AND ALL LIABILITY FOR THE LOSS OF DATA DURING ANY COMMUNICATIONS
+AND  ANY  LIABILITY  ARISING  FROM  OR RELATED TO ANY FAILURE BY THE LICENSOR TO
+TRANSMIT ACCURATE OR COMPLETE INFORMATION TO YOU.
+
+4.3.  LIMITED  LIABILITY; NO LIABILITY FOR CONSEQUENTIAL DAMAGES. YOU ASSUME THE
+ENTIRE  COST  OF  ANY  DAMAGE  RESULTING  FROM  YOUR  USE OF THE PRODUCT AND THE
+INFORMATION  CONTAINED  IN  OR  COMPILED BY THE PRODUCT, AND THE INTERACTION (OR
+FAILURE  TO  INTERACT  PROPERLY)  WITH  ANY  OTHER  HARDWARE OR SOFTWARE WHETHER
+PROVIDED  BY  THE  LICENSOR OR A THIRD PARTY. TO THE MAXIMUM EXTENT PERMITTED BY
+APPLICABLE  LAW,  IN NO EVENT WILL THE LICENSOR OR ITS SUPPLIERS OR LICENSORS BE
+LIABLE  FOR  ANY  DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR
+LOSS  OF  BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION,
+LOSS  OF  GOODWILL, WORK STOPPAGE, HARDWARE OR SOFTWARE DISRUPTION IMPAIRMENT OR
+FAILURE,  REPAIR  COSTS,  TIME VALUE OR OTHER PECUNIARY LOSS) ARISING OUT OF THE
+USE  OR INABILITY TO USE THE PRODUCT, OR THE INCOMPATIBILITY OF THE PRODUCT WITH
+ANY  HARDWARE  SOFTWARE  OR  USAGE,  EVEN  IF SUCH PARTY HAS BEEN ADVISED OF THE
+POSSIBILITY  OF SUCH DAMAGES. IN NO EVENT WILL LICENSOR'S TOTAL LIABILITY TO YOU
+FOR  ALL  DAMAGES  IN ANY ONE OR MORE CAUSE OF ACTION, WHETHER IN CONTRACT, TORT
+OR  OTHERWISE  EXCEED  $10.  THIS  LIMITATION  OF  LIABILITY  SHALL NOT APPLY TO
+LIABILITY  FOR  DEATH  OR  PERSONAL  INJURY  TO  THE  EXTENT THAT APPLICABLE LAW
+PROHIBITS  SUCH LIMITATION. FURTHERMORE, BECAUSE SOME JURISDICTIONS DO NOT ALLOW
+THE  EXCLUSION  OR  LIMITATION  OF  LIABILITY  FOR  CONSEQUENTIAL  OR INCIDENTAL
+DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
+
+5. YOUR INFORMATION AND THE LICENSOR'S PRIVACY POLICY.
+
+5.1.  Privacy  Policy.  You  acknowledge  receipt of and agree to the Licensor's
+privacy   statement   which   is  made  available  to  you  in  connection  with
+installation  and  is  set  forth  in  full  at  www.coolutils.com.  You  hereby
+expressly  consent to the Licensor's processing of your personal data (which may
+be  collected  by  the Licensor or its distributors) according to the Licensor's
+current  privacy  policy  as  of  the  date of the effectiveness hereof which is
+incorporated  into this Agreement by reference. By entering into this Agreement,
+you  agree  that  the  Licensor  may  collect  and retain information about you,
+including  your  name,  email  address. The Licensor employs other companies and
+individuals  to  perform  certain  functions  on  its  behalf.  Examples include
+delivering  packages,  sending  postal  mail  and  e-mail,  removing  repetitive
+information   from   customer   lists,   analyzing   data,  providing  marketing
+assistance,  and  providing  customer  service.  They  have  access  to personal
+information  needed  to  perform  their  functions, but may not use it for other
+purposes.  The Licensor publishes a privacy policy on its web site and may amend
+such  policy  from  time to time in its sole discretion. You should refer to the
+Licensor's  privacy  policy  prior  to  agreeing  to  this  Agreement for a more
+detailed  explanation  of  how  your  information will be stored and used by the
+Licensor.  If  "you"  are  an  organization, you will ensure that each member of
+your  organization  (including  employees  and  contractors) about whom personal
+data  may  be  provided  to the Licensor has given his or her express consent to
+the  Licensor's  processing  of  such  personal  data.  Personal  data  will  be
+processed  by  the  Licensor  or  its  distributors  in the country where it was
+collected,  and  possibly  in  the United States and Germany. United States laws
+regarding  processing  of  personal  data may be less or more stringent than the
+laws in your jurisdiction.
+
+6. MISCELLANEOUS.
+
+6.1.  Period for Bringing Actions. No action, regardless of form, arising out of
+the  transactions  under  this  Agreement, may be brought by either party hereto
+more  than  one  (1)  year  after  the  cause  of  action  has  occurred, or was
+discovered  to  have  occurred,  except  that  an  action  for  infringement  of
+intellectual  property  rights  may  be  brought  within  the maximum applicable
+statutory period.
+
+6.2.  Entire  Agreement;  Severability;  No  Waiver.  This Agreement is the entire
+agreement  between  you  and Licensor and supersedes any other prior agreements,
+proposals,  communications  or advertising, oral or written, with respect to the
+Product  or  to  subject matter of this Agreement. You acknowledge that you have
+read  this  Agreement,  understand it and agree to be bound by its terms. If any
+provision  of this Agreement is found by a court of competent jurisdiction to be
+invalid,  void,  or  unenforceable  for  any  reason,  in whole or in part, such
+provision  will  be  more  narrowly  construed  so  that  it  becomes  legal and
+enforceable,  and  the entire Agreement will not fail on account thereof and the
+balance  of  the Agreement will continue in full force and effect to the maximum
+extent  permitted  by  law  or  equity  while  preserving, to the fullest extent
+possible,  its  original  intent. No waiver of any provision or condition herein
+shall  be  valid  unless  in  writing  and  signed  by  you  and  an  authorized
+representative  of  Licensor  provided  that  no  waiver  of  any  breach of any
+provisions  of  this Agreement will constitute a waiver of any prior, concurrent
+or  subsequent  breach.  Licensor's  failure  to  insist  upon or enforce strict
+performance  of  any  provision  of  this  Agreement  or  any right shall not be
+construed as a waiver of any such provision or right.
+
+6.3.   Contact   Information.  Should  you  have  any  questions  concerning  this
+Agreement,  or  if  you  desire  to  contact the Licensor for any reason, please
+contact our Support Center at support@coolutils.com
+
+(c)  2005-2010  Softplicity LLC. All rights reserved. The Product, including the
+Software  and  any  accompanying Documentation, are copyrighted and protected by
+copyright   laws   and  international  copyright  treaties,  as  well  as  other
+intellectual property laws and treaties.
+
+

@@ -1,0 +1,5 @@
+  <page class="PDFDocInfo" caption="Document\Properties" />
+  <page class="PDFCompression" caption="Document\Compression" />
+  <page class="PDFEncryption" caption="Document\Encryption" />
+  <page class="PDFSign" caption="Document\Sign" />
+

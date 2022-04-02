@@ -1,0 +1,34 @@
+<converters wizard="PDFCombine" task="ToPDFTask">
+  <convert name="Combine to PDF" value="PDF" image="PDF" />
+</converters>
+<layout>
+  <browse name="ToPDFBrowse" options="order" />
+  <info name="PDFView" align="right" sizeable="true" />
+</layout>
+<filter>
+  <item ext="pdf" name="Adobe PDF file" image="pdf" primary="true" />
+  <item ext="htm;html;mht" name="HTML pages" image="html" />
+  <item ext="doc;txt;odt;docx;rtf" name="Documents" image="doc" />
+  <item ext="xls;xlsx;ods" name="Spreadsheets" image="xls" />
+  <item ext="csv" name="Comma separated files" image="csv" />
+  <item ext="webp;tif;tiff;fax;g3n;g3f;bmp;rle;dib;ppm;pbm;pgm;pxm;pcx;pcc;scr;tga;tga;vst;icb;vda;win;dcx;pxm;png;mng;pnm;jng;jpg;jpeg;j2k;jp2;jpc;j2c;jpe;jpgx" name="Images" image="image" />
+</filter>
+<wizard caption="Total PDF Combine" height="460" >
+  <page class="ToPDFSelectCombi" caption="Destination" />
+  <page class="ToPDFNamePart" caption="Range" if="wizardShowNamePart=True" />
+  <page class="ToPDFBookmarks" caption="Bookmarks" />
+  <page class="ToPDFCoverPageAd" caption="Cover page" />
+  <page class="ToPDFContent" caption="Contents" />
+  <page class="ToPDFHeader" caption="Header\Text" />
+  <page class="HeaderImage" caption="Header\Image" />
+  <page class="ToPDFFooter" caption="Footer\Text" />
+  <page class="FooterImage" caption="Footer\Image" />
+  <page class="ToPDFAdditionalOptions" caption="Duplex" />
+  <include file="PDF" />
+  <page class="Finish" caption="Start conversion" />
+</wizard>
+<cmd>
+ <include file="CommentCmd" />
+ <include file="PDFCombineCmd" />
+</cmd>
+<report wizard="report" />

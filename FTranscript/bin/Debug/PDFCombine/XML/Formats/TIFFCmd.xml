@@ -1,0 +1,22 @@
+  <key name="tc" property="TIFF.Compression" desc="TIFF Image Compression">
+    <subkey name="(U)ncompressed" value="ioTIFF_UNCOMPRESSED" desc="uncompressed TIFF" />
+    <subkey name="(L)ZW" value="ioTIFF_LZW" desc="LZW compression" />
+    <subkey name="(R)LE" value="ioTIFF_PACKBITS" desc="RLE compression (packbits)" />
+    <subkey name="(J)PEG" value="ioTIFF_JPEG" desc="JPEG compression" />
+    <subkey name="(CC)ITT1D" value="ioTIFF_CCITT1D" desc="Bilevel Huffman compression (CCITT1D)" />
+    <subkey name="G3FAX1D" value="ioTIFF_G3FAX1D" desc="Bilevel Group 3 CCITT compression, monodimensional (G3FAX1D)" />
+    <subkey name="G3FAX2D" value="ioTIFF_G3FAX2D" desc="Bilevel Group 3 CCITT compression, bidimensional (G3FAX2D)" />
+    <subkey name="(G4)FAX" value="ioTIFF_G4FAX" desc="Bilevel Group 4 CCITT compression, bidimensional (G4FAX)" />
+  </key>
+  <key name="tiffpi" property="TIFF.PhotometInterpret" desc="TIFF Photometric interpretation">
+    <subkey name="wz" value="ioTIFF_WHITEISZERO" desc="White is zero" />
+    <subkey name="bz" value="ioTIFF_BLACKISZERO" desc="Black is zero" />
+    <subkey name="rgb" value="ioTIFF_RGB" desc="RGB" />
+    <subkey name="pal" value="ioTIFF_RGBPALETTE" desc="RGB Palette" />
+    <subkey name="mask" value="ioTIFF_TRANSPMASK" desc="Transparent mask" />
+    <subkey name="cmyk" value="ioTIFF_CMYK" desc="CMYK" />
+    <subkey name="ycbcr" value="ioTIFF_YCBCR" desc="YCBCR" />
+    <subkey name="cielab" value="ioTIFF_CIELAB" desc="CIELAB" />
+  </key>
+  <key name="dpi" property="Format.DPI" desc="Image DPI" />
+  <key name="tjq" property="TIFF.JPEGQuality" desc="TIFF JPEG Quality (1-100)" />

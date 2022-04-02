@@ -1,0 +1,58 @@
+  <key name="pc" property="PDF.Compression" desc="PDF file compression">
+    <subkey name="(F)astest" value="hcFastest" desc="Fastest compression" />
+    <subkey name="(N)ormal" value="hcNormal" desc="Normal compression" />
+    <subkey name="(M)aximum" value="hcMaximum" desc="Maximum compression" />
+  </key>
+  <key name="pvl" property="PDF.View.PageLayout" desc="PDF initial page layout">
+    <subkey name="sp" value="plSinglePage" desc="Single page" />
+    <subkey name="oc" value="plOneColum" desc="One column" />
+    <subkey name="tcol" value="plTwoColumnsOddLeft" desc="Two columns, odd-numbered pages on left" />
+    <subkey name="tcor" value="plTwoColumnsOddRight" desc="Two columns, odd-numbered pages on right" />
+    <subkey name="tpol" value="plTwoPagesOddRight" desc="Two pages, odd-numbered pages on left" />
+    <subkey name="tpor" value="plTwoPagesOddRight" desc="Two pages, odd-numbered pages on right" />
+  </key>
+  <key name="pvm" property="PDF.View.PageMode" desc="PDF initial page mode">
+    <subkey name="normal" value="ppmNormalView" desc="Normal view" />
+    <subkey name="outlines" value="ppmShowOutlines" desc="Show the outlines pane" />
+    <subkey name="thumbnails" value="ppmShowThumbnails" desc="Show the thumbnails pane" />
+    <subkey name="fullscreen" value="ppmFullScreen" desc="Show the document in full screen mode" />
+    <subkey name="optional" value="ppmShowOptionalContent" desc="Optional content group panel visible" />
+    <subkey name="attachments" value="ppmShowAttachments" desc="Attachments panel visible" />
+  </key>
+  <key name="mp" property="PDF.Encrypt.OwnerPassword" desc="PDF master (owner) password" />
+  <key name="up" property="PDF.Encrypt.UserPassword" desc="PDF user password" />
+   <key name="perm" property="PDF.Encrypt.UserPermissions" desc="PDF user permissions">
+    <subkey name="Print" value="eupPrint" />
+    <subkey name="Copy" value="eupCopy" />
+    <subkey name="Modify" value="eupModify" />
+    <subkey name="Annotation" value="eupAnnotation" />
+    <subkey name="FormFill" value="eupFormFill" />
+    <subkey name="Accessibility" value="eupAccessibility" />
+    <subkey name="DocAssembly" value="eupDocAssembly" />
+    <subkey name="HighResPrint" value="eupHighResPrint" />
+  </key>
+  <key name="PFXFile" property="PDF.Sign.PFXFile" desc="PFX File for sign document" />
+  <key name="PFXPass" property="PDF.Sign.PFXPassword" desc="The password to open the PFX file" />
+  <key name="SignName" property="PDF.Sign.SignName" desc="The name of the signature field to sign" />
+  <key name="SignLoc" property="PDF.Sign.Location" desc="The location that the signing was done" />
+  <key name="SignCon" property="PDF.Sign.Contact" desc="The contact information of the signer" />
+  <key name="SignRes" property="PDF.Sign.Reason" desc="The reason for signing document" />
+  <key name="PDFAuthor" property="PDF.Info.Author" desc="PDF document author" />
+  <key name="PDFSubject" property="PDF.Info.Subject" desc="PDF document subject" />
+  <key name="PDFTitle" property="PDF.Info.Title" desc="PDF document title" />
+  <key name="PDFProducer" property="PDF.Info.Producer" desc="PDF document Producer" />
+  <key name="-pdfa" property="PDF.PDFA" desc="PDF/A compatibility mode" />
+  <key name="pdfver"  property="PDF.Version" desc="PDF document format version 1.2 - 1.6" />
+  <key name="pdfzoom" property="PDF.View.PageZoom" desc="PDF document default page zoom">
+    <subkey name="default" value="pzmDefault" />
+    <subkey name="fitwindow" value="pzmFitWindow" desc="fit to window" />
+    <subkey name="fitwidth" value="pzmFitWidth" desc="fit width" />
+    <subkey name="10" value="pzm10" desc="10%" />
+    <subkey name="25" value="pzm25" desc="25%" />
+    <subkey name="50" value="pzm50" desc="50%" />
+    <subkey name="75" value="pzm75" desc="75%" />
+    <subkey name="100" value="pzm100" desc="100%" />
+    <subkey name="150" value="pzm150" desc="150%" />
+    <subkey name="200" value="pzm200" desc="200%" />
+    <subkey name="400" value="pzm400" desc="400%" />
+  </key>

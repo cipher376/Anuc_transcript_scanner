@@ -1,0 +1,6 @@
+<wizard caption="Report" height="430">
+  <page class="ReportType" caption="Report type" />
+  <page class="ReportColumns" caption="Report columns" />
+  <page class="SelectFile" caption="Destination" />
+<!--  <page class="Finish" caption="Finish" /> -->
+</wizard>

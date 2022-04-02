@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<style Name="">
+  <item Name="title_bkgnd_top" Color="13296895" Font.Charset="1" Font.Color="-16777208" Font.Height="-13" Font.Name="Arial" Font.Style="0"/>
+  <item Name="title_bkgnd_bottom" Color="52479" Font.Charset="1" Font.Color="-16777208" Font.Height="-13" Font.Name="Arial" Font.Style="0"/>
+  <item Name="title_text" Color="536870911" Font.Charset="1" Font.Color="8388608" Font.Height="-13" Font.Name="Arial" Font.Style="1"/>
+  <item Name="title_root" Color="536870911" Font.Charset="1" Font.Color="0" Font.Height="-16" Font.Name="Arial" Font.Style="1"/>
+  <item Name="header_text" Color="536870911" Font.Charset="1" Font.Color="128" Font.Height="-13" Font.Name="Arial" Font.Style="1" Frame.Color="4643583" Frame.Typ="10"/>
+  <item Name="data_text" Color="536870911" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Arial" Font.Style="0" Frame.Color="8421504" Frame.Typ="2" Frame.RightLine.Color="52479"/>
+  <item Name="footer_text" Color="536870911" Font.Charset="1" Font.Color="-16777208" Font.Height="-13" Font.Name="Arial" Font.Style="0" Frame.Typ="4" Frame.LeftLine.Color="52479" Frame.LeftLine.Width="2" Frame.TopLine.Color="52479" Frame.TopLine.Width="2"/>
+</style>

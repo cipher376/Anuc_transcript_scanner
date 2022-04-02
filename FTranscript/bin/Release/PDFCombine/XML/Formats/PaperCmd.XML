@@ -1,0 +1,41 @@
+  <key name="TM" property="Paper.TopMarginStr" desc="Top Margin (inches)" />
+  <key name="LM" property="Paper.LeftMarginStr" desc="Left Margin (inches)" />
+  <key name="BM" property="Paper.BottomMarginStr" desc="Bottom Margin (inches)" />
+  <key name="RM" property="Paper.RightMarginStr" desc="Right Margin (inches)" />
+  <key name="po" property="Paper.Orientation" desc="Paper Orientation">
+    <subkey name="(P)ortrait" value="poPortrait" desc="Portrait" />
+    <subkey name="(L)andscape" value="poLandscape" desc="Landscape" />
+  </key>
+  <key name="ps" property="Paper.Size" desc="Paper size">
+    <subkey name="Letter" value="papLetter" />
+    <subkey name="LetterSmall" value="papLetterSmall" />
+    <subkey name="Tabloid" value="papTabloid" />
+    <subkey name="Ledger" value="papLedger" />
+    <subkey name="Legal" value="papLegal" />
+    <subkey name="Statement" value="papStatement" />
+    <subkey name="Executive" value="papExecutive" />
+    <subkey name="Folio" value="papFolio" />
+    <subkey name="A0" value="papA0" />
+    <subkey name="A1" value="papA1" />
+    <subkey name="A2" value="papA2" />
+    <subkey name="A3" value="papA3" />
+    <subkey name="A4" value="papA4" />
+    <subkey name="A4Small" value="papA4Small" />
+    <subkey name="A5" value="papA5" />
+    <subkey name="B4" value="papB4" />
+    <subkey name="B5" value="papB5" />
+    <subkey name="Quarto" value="papQuarto" />
+    <subkey name="EnvC5" value="papEnvC5" desc="Envelope C5" />
+    <subkey name="EnvC3" value="papEnvC3" desc="Envelope C3" />
+    <subkey name="EnvC4" value="papEnvC4" desc="Envelope C4" />
+    <subkey name="EnvC6" value="papEnvC6" desc="Envelope C6" />
+    <subkey name="EnvB4" value="papEnvB4" desc="Envelope B4" />
+    <subkey name="EnvB5" value="papEnvB5" desc="Envelope B5" />
+    <subkey name="EnvB6" value="papEnvB6" desc="Envelope B6" />
+    <subkey name="EnvMonarch" value="papEnvMonarch" desc="Envelope Monarch" />
+    <subkey name="Custom" value="papCustom" desc="Custom, you need to set paper dimensions" />
+<!--        <subkey name="Auto" value="Auto" desc="The size of the document will be calculated automatically" /> -->
+  </key>
+  <key name="pd" property="Paper.CustomPaperSizeStr" desc="Custom paper size dimensions in mm &lt;width&gt;x&lt;height&gt;" />
+
+

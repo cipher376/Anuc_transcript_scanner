@@ -1,0 +1,5 @@
+   <key name="dco" property="Doc.CombineOptions" desc="Doc Combine Options">
+    <subkey name="TOC" value="cdoTOC" />
+    <subkey name="EveryFileNewPage" value="cdoEveryFileNewPage" />
+  </key>
+

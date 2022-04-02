@@ -1,0 +1,9 @@
+  <key name="-toc" property="TOC.Visible" desc="Insert table of content" />
+  <key name="toclinestyle" property="TOC.LineStyle" desc="PDF content line style">
+    <subkey name="(N)one" value="lsNone" />
+    <subkey name="(D)ot" value="lsDot" />
+    <subkey name="(S)olid" value="lsSolid" />
+  </key>
+  <key name="toclinecolor" property="TOC.CmdLineColor" desc="PDF content line color" />
+  <key name="tocfont" property="TOC.CmdFont" desc="PDF content font, [font name, font size, font color]" />
+  <key name="tocmargins" property="TOC.CmdMargins" desc="PDF content page margins (inch), [left,top,right,bottom]" />

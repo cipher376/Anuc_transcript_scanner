@@ -1,0 +1,16 @@
+  <key name="wmt" property="Watermark.Text" desc="Watermark text" />
+  <key name="wmr" property="Watermark.Rotate" desc="Watermark rotate angle" />
+  <key name="wtr" property="Watermark.Transparency" desc="Watermark transparency (0-100)" />
+  <key name="wmf" property="Watermark.FontCmd" desc="Watermark font [name,size,color]" />
+  <key name="wmh" property="Watermark.HorizPos" desc="Watermark horizontal position" >
+    <subkey name="(L)eft" value="whpLeft" desc="Left" />
+    <subkey name="(C)enter" value="whpCenter" desc="Center" />
+    <subkey name="(R)ight" value="whpRight" desc="Right" />
+  </key>
+  <key name="wmv" property="Watermark.VertPos" desc="Watermark vertical position" >
+    <subkey name="(T)op" value="wvpTop" desc="Top" />
+    <subkey name="(C)enter" value="wvpCenter" desc="Center" />
+    <subkey name="(B)ottom" value="wvpBottom" desc="Bottom" />
+  </key>
+  <key name="wmm" property="Watermark.MarginsCmd" desc="Watermark margins [left,top,right,bottom]" />
+  <key name="wif" property="Watermark.ImageFile" desc="Watermark image file name" />

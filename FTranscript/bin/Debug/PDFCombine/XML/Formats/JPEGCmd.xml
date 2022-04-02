@@ -1,0 +1,9 @@
+  <key name="jq" property="JPEG.Quality" desc="JPEG Quality" />
+  <key name="jsc" property="JPEG.ColorSpace" desc="JPEG Color space">
+    <subkey name="rgb" value="ioJPEG_RGB" desc="Separate RGB channels" />
+    <subkey name="gray" value="ioJPEG_GRAYLEV" desc="Unique intensity channel (gray levels)" />
+    <subkey name="ycbcr" value="ioJPEG_YCbCr" desc="Three channels (CCIR Recommendation 601-1)" />
+    <subkey name="cmyk" value="ioJPEG_CMYK" desc="Four channels (Cyan Magenta Yellow Black) - linear conversion" />
+    <subkey name="ycbcrk" value="ioJPEG_YCbCrK" desc="Four channels (YCbCr and Black)" />
+  </key>
+  <key name="dpi" property="Format.DPI" desc="Image DPI" />

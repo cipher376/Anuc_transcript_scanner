@@ -1,0 +1,11 @@
+  <key name="PreferDetails" property="PreferDetails" desc="Keep all the details in spite of the size (output file may be larger)" />
+  <key name="cm" property="ColorModel" desc="Color model">
+    <subkey name="n" value="cmNormal" desc="Show drawing in colors" />
+    <subkey name="bw" value="cmBW" desc="Show drawing in black-and-white" />
+    <subkey name="g" value="cmDisabled" desc="Show drawing in grayscale" />
+  </key>
+  <key name="CADOpt" property="CADOptions" desc="CAD Options">
+    <subkey name="op" value="coOnlyOnePage" desc="Show Only One Page" />
+    <subkey name="rf" value="coRenderFast" desc="Render Fast" />
+  </key>
+

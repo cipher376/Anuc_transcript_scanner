@@ -1,0 +1,34 @@
+<key name="-combine" options="ignore" />
+<key name="-bookmark" property="Content" desc="Creates Table of Bookmarks. When several files are combined each filename becomes a bookmark. Table of bookmarks will show you the content of the combined file" />
+<key name="bfile" property="Bookmarks.BFile" desc="Bookmarks as filenames. If you do NOT want the bookmarks be the filenames place the desired names of bookmarks into separate file and set that file as Bookmark" />
+<key name="combine" property="CombineType" desc="How to combine documents">
+  <subkey name="(o)nefile" value="icOneFile" desc="All documents into one file" />
+  <subkey name="(f)older" value="icByFolder" desc="Separate files by folders" />
+  <subkey name="(n)ame" value="icByNamePart" desc="Separate files by common name part" />
+</key>
+<key name="npr" property="NamePartIntervalStr" desc="Range you want to analyze for grouping files by name" />
+<key name="bstyle" property="Bookmarks.BType" desc="Set Bookmark style">
+  <subkey name="(n)one" value="btNone" desc="No bookmarks" />
+  <subkey name="(t)itle" value="btTitle" desc="Create bookmarks from pdf document titles" />
+  <subkey name="(f)ile" value="btFile" desc="Create bookmarks from document file names" />
+  <subkey name="(l)ist" value="btList" desc="Use bookmarks list" />
+</key>
+<key name="-bfolders" property "Bookmarks.cmdFileBookmarkFolders" desc="For bookmarks style 'file' create bookmaks by folders" />
+<key name="-bpdf" property="Bookmarks.cmdFileBookmarkPDF" desc="For bookmarks style 'file' add bookmaks from source documents" />
+<key name="odd" property="Duplex.OddPage.Cmd" desc="use 'blank' for add blank page to odd pages documents or file name of existing pdf document" />
+<include file="PDFCmd"/>
+<include file="CommentCmd" />
+<include file="PDFContentCmd" />
+<key name="pc" options="ignore" />
+  <example>
+  C:\Folder1\ C:\Folder2\ C:\Folder3\ C:\Dest.PDF -r &lt;br&gt;&lt;font color=clGray&gt;PDFCombine will take all the pdf files from Folder1, Folder2, Folder3 and merge them. The result will appear in Dest.pdf. -r means the recursive search (if there are more folders inside Folder1&amp;2&amp;3 PDF Combine will merge them as well).&lt;/font&gt;
+  </example>
+  <example>
+   C:\Dest.pdf -list C:\List.txt -bstyle File &lt;br&gt;&lt;font color=clGray&gt; All the files that are infrom List.txt will be placed to Dest.pdf and create bookmarks from document file names&lt;/font&gt;
+  </example>
+  <example>
+   C:\Src???.pdf C:\Dest.pdf&lt;br&gt;&lt;font color=clGray&gt; All the files C:\Src???.pdf (any symbol instead of ?) will be placed to Dest.pdf. WildCard support &lt;/font&gt;
+  </example>
+  <example>
+   C:\Folder1\ C:\Dest.PDF -HeadText "[page] of [count]" -HeadAlign Center &lt;br&gt;&lt;font color=clGray&gt; PDFCombine will take all the pdf files from Folder1 and merge them to Dest.pdf and add page number in the header of the page &lt;/font&gt;
+  </example>

@@ -1,0 +1,15 @@
+  <key name="coverstyle" property="PDFContent.Cover.Style" desc="Cover page properties">
+    <subkey name="(N)one" value="cpsNone" />
+    <subkey name="(F)irst" value="cpsFirstPage" />
+    <subkey name="(C)ustom" value="cpsCustom" />
+  </key>
+  <key name="coverfile" property="PDFContent.Cover.cmdFilePath" desc="Cover page file" />
+  <key name="-content" property="PDFContent.Visible" desc="Insert table of content" />
+  <key name="toclinestyle" property="PDFContent.LineStyle" desc="PDF content line style">
+    <subkey name="(N)one" value="lsNone" />
+    <subkey name="(D)ot" value="lsDot" />
+    <subkey name="(S)olid" value="lsSolid" />
+  </key>
+  <key name="toclinecolor" property="PDFContent.CmdLineColor" desc="PDF content line color" />
+  <key name="tocfont" property="PDFContent.CmdFont" desc="PDF content font, [font name, font size, font color]" />
+  <key name="tocmargins" property="PDFContent.CmdMargins" desc="PDF content page margins (inch), [left,top,right,bottom]" />
